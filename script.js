@@ -1,5 +1,5 @@
 /* ==================================================
-   MT Basmati Rice
+   Munish Trading Co.
    script.js
 ================================================== */
 
@@ -181,4 +181,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 });
 
-console.log("MT Basmati Rice website loaded successfully.");
+console.log("Munish Trading Co. website loaded successfully.");
